@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pth
+*.pt
+*.npz
+*.so
+*.egg-info/
+/runs/
+/runs-screen-*/
+/artifacts/
+/env/
+/output/
+/checkpoints/
+/images/
